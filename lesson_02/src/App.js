@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   // const name = "Aakash Kumar Saini";
   const handelNameChange = () => {
-    const names = ['Avneet', 'Tanya', 'Srishti'];
-    const int = Math.floor(Math.random() * 3);
+    const names = ['Aakash', 'Avneet', 'Tanya', 'Srishti'];
+    const int = Math.floor(Math.random() * 4);
     return names[int];
   }
   return (
@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aakash is fucking {handelNameChange()}.
+          Hello {handelNameChange()}.
         </p>
         <a
           className="App-link"
