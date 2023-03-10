@@ -1,5 +1,6 @@
 .vscode
 /lesson
+package-lock.json
 /node_modules
 /lesson_01/node_modules
 /lesson_02/node_modules
