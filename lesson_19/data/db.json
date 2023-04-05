@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "lorem ipsum",
+      "datetime": "01/August/2012 11:17:56 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur qui culpa dolorum facilis consequuntur nemo, a ipsa. Sunt commodi consectetur adipisci repellat voluptatibus nisi vitae officia aut voluptatum accusamus quibusdam ipsam cupiditate nemo corrupti odit veritatis modi dolor, minima itaque ab possimus maiores, unde dolorem. Blanditiis cupiditate recusandae atque mollitia?"
+    },
+    {
+      "id": 2,
+      "title": "officia aut consequuntur ",
+      "datetime": "21/June/2008 09:37:54 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur qui culpa dolorum facilis consequuntur nemo, a ipsa. Sunt commodi consectetur adipisci repellat voluptatibus nisi vitae officia aut voluptatum accusamus quibusdam ipsam cupiditate nemo corrupti odit veritatis modi dolor, minima itaque ab possimus maiores, unde dolorem. Blanditiis cupiditate recusandae atque mollitia?"
+    },
+    {
+      "id": 5,
+      "title": "first post",
+      "datetime": "05/April/2023 6:43:30 AM",
+      "body": "1"
+    },
+    {
+      "id": 6,
+      "title": "2nd",
+      "datetime": "05/April/2023 7:35:44 AM",
+      "body": "2 ok"
+    }
+  ]
+}
