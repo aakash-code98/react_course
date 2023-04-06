@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post",
+      "datetime": "05/April/2023 6:43:30 AM",
+      "body": "1"
+    },
+    {
+      "id": 2,
+      "title": "second post",
+      "datetime": "05/April/2023 6:43:30 AM",
+      "body": "1"
+    },
+    {
+      "id": 3,
+      "title": "third post",
+      "datetime": "05/April/2023 6:43:30 AM",
+      "body": "1"
+    },
+    {
+      "id": 4,
+      "title": "4th post",
+      "datetime": "07/April/2023 12:45:58 AM",
+      "body": "4"
+    },
+    {
+      "id": 5,
+      "title": "first post",
+      "datetime": "07/April/2023 12:45:22 AM",
+      "body": "1"
+    }
+  ]
+}
